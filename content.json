@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "Build with Precision, Craft with Passion",
+    "subtitle": "Multi-Engineering & Creative Freelance Hub \u2014 Hire top talent or find work."
+  },
+  "about": {
+    "image": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?w=600",
+    "text": "MEC WORKS connects top engineering and creative freelancers with clients. We vet every professional to ensure quality and timely delivery. From code to construction, we've got you covered. Our platform simplifies hiring and project management for both parties."
+  },
+  "contact": {
+    "email": "hello@mecworks.in",
+    "phone": "+91 98765 43210",
+    "location": "Bangalore, India"
+  },
+  "news": [
+    {
+      "image": "https://images.unsplash.com/photo-1531482615715-2afd1c8667e4?w=400",
+      "title": "New Robotics Workshop",
+      "description": "Join us for a hands-on robotics session in March. Industry experts will guide.",
+      "date": "12 Mar 2026"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573164713988-9665c49c1b7d?w=400",
+      "title": "labours adda beta",
+      "description": "Skilled labour app enters closed beta. Register interest now.",
+      "date": "28 Feb 2026"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
+      "title": "Client portal upgrade",
+      "description": "New dashboard for clients to track projects in real-time.",
+      "date": "05 Feb 2026"
+    }
+  ]
+}

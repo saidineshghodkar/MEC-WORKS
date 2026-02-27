@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "fullName": "sai dinesh ghodkar",
+      "company": "mec works",
+      "email": "saidineshghodkar@gmail.com",
+      "phone": "09347051097",
+      "projectType": "web development ",
+      "budget": "10000000",
+      "requirements": "good seo \r\n10 pages site\r\n",
+      "timeline": "45 days",
+      "agree": "on",
+      "approved": false
+    }
+  ],
+  "freelancers": []
+}
